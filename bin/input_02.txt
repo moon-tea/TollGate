@@ -1,0 +1,19 @@
+S
+U Monte duke
+A duke PK1368
+D GB_01 PK1HZX
+D GB_01 PK1HZX
+D GB_01 PK1HZX
+R GB_01 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke
+R GB_02 duke 
+T
+E

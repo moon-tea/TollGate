@@ -1,0 +1,25 @@
+Toll Gate Program started...
+
+	Added New TollTag account: Name: Monte, user ID: duke
+		Vehicle Added to user: duke, Plate #: PK1368, TollTag #: 000000
+	Added New ZipCash account: PK1HZX
+Plate #: PK1HZX drove through GB_01
+Plate #: PK1HZX drove through GB_01
+Plate #: PK1HZX drove through GB_01
+Customer: duke drove through GB_01
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+Customer: duke drove through GB_02
+
+			TollTag User: duke owes: $13.00
+			ZipCash Plate: PK1HZX owes: $4.50
+
+
+Toll Gate Program ended...

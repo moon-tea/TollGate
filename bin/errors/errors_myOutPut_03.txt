@@ -1,0 +1,59 @@
+Comparing files output_02.txt and MYOUTPUT_03.OUT
+***** output_02.txt
+Toll Gate Program started...
+Name: MonteCNichols user ID: dukeOfMilan 
+Vehicle Added to user: dukeOfMilan: Plate #: PK1368 TollTag #: 000000
+Toll Gate Program ended...
+***** MYOUTPUT_03.OUT
+Toll Gate Program started...
+
+
+
+        Added New TollTag account: Name: Monte, user ID: duke
+
+                        TollTag User: duke owes: $0.00
+
+                Vehicle Added to user: duke, Plate #: PK1368, TollTag #: 000000
+        Added New ZipCash account: PK1HZX
+Plate #: PK1HZX drove through GB_01
+Plate #: PK1HZX drove through GB_01
+Plate #: PK1HZX drove through GB_01
+Customer: duke drove through GB_01
+Customer: duke drove through GB_02
+        Added New TollTag account: Name: Ashley, user ID: duchess
+
+                        TollTag User: duchess owes: $0.00
+                        TollTag User: duke owes: $2.20
+                        ZipCash Plate: PK1HZX owes: $4.50
+
+Customer: duke drove through GB_02
+                Vehicle Added to user: duke, Plate #: HZDFGH, TollTag #: 000001
+Customer: duke drove through GB_02
+                Vehicle Added to user: duchess, Plate #: GH13GV, TollTag #: 000002
+                Vehicle Added to user: duke, Plate #: MADDOG, TollTag #: 000003
+Customer: duke drove through GB_02
+
+                        TollTag User: duchess owes: $0.00
+                        TollTag User: duke owes: $5.80
+                        ZipCash Plate: PK1HZX owes: $4.50
+
+Customer: duke drove through GB_01
+Customer: duke drove through GB_02
+Plate #: PK1HZX drove through GB_02
+Customer: duke drove through GB_01
+Customer: duke drove through GB_02
+        Added New ZipCash account: HZZ4F7
+Plate #: HZZ4F7 drove through GB_01
+Customer: duchess drove through GB_02
+Customer: duke drove through GB_02
+Customer: duchess drove through GB_01
+
+                        TollTag User: duchess owes: $2.20
+                        ZipCash Plate: HZZ4F7 owes: $1.50
+                        TollTag User: duke owes: $11.40
+                        ZipCash Plate: PK1HZX owes: $6.30
+
+
+Toll Gate Program ended...
+*****
+

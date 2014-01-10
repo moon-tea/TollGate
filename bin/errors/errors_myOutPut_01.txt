@@ -1,0 +1,15 @@
+Comparing files output_01.txt and MYOUTPUT_01.OUT
+***** output_01.txt
+Toll Gate Program started...
+Name: MonteCNichols user ID: dukeOfMilan 
+Vehicle Added to user: dukeOfMilan: Plate #: PK1368 TollTag #: 000000
+Toll Gate Program ended...
+***** MYOUTPUT_01.OUT
+Toll Gate Program started...
+
+        Added New TollTag account: Name: MonteCNichols, user ID: dukeOfMilan
+                Vehicle Added to user: dukeOfMilan, Plate #: PK1368, TollTag #: 000000
+
+Toll Gate Program ended...
+*****
+

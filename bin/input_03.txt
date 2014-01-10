@@ -1,0 +1,30 @@
+# Input_03 tests all methods in a random order
+S
+U Monte duke
+T
+A duke PK1368
+D GB_01 PK1HZX
+D GB_01 PK1HZX
+D GB_01 PK1HZX
+R GB_01 duke
+R GB_02 duke
+U Ashley duchess
+T
+R GB_02 duke
+A duke HZDFGH
+R GB_02 duke
+A duchess GH13GV
+A duke MADDOG
+R GB_02 duke
+T
+R GB_01 duke
+R GB_02 duke
+D GB_02 PK1HZX
+R GB_01 duke
+R GB_02 duke
+D GB_01 HZZ4F7
+R GB_02 duchess
+R GB_02 duke 
+R GB_01 duchess
+T
+E
